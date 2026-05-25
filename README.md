@@ -36,3 +36,9 @@ saldo = vitorias - derrotas
 -Estruturas condicionais
 -Operadores matemáticos
 -Lógica de programação
+
+🎯 Objetivo
+Este projeto foi criado para praticar lógica de programação e reforçar o uso de funções, condições e operadores em JavaScript.
+
+👨‍💻 Autor
+Desenvolvido por OlokoDri.
